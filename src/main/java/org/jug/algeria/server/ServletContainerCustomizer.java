@@ -9,6 +9,6 @@ public class ServletContainerCustomizer implements EmbeddedServletContainerCusto
 
     @Override
     public void customize(ConfigurableEmbeddedServletContainer container) {
-        container.setPort(9095);
+        //container.setPort(9095);
     }
 }
