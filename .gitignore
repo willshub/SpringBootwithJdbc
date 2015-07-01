@@ -3,4 +3,6 @@ pom.xml.bak
 *.script
 blood.properties
 blood.log
-
+.idea/*
+out/*
+*.iml
