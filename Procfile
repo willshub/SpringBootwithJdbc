@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/doctor-blood-0.0.1-SNAPSHOT.jar
+web: java -Dserver.port=$PORT -jar target/blood-0.0.1-SNAPSHOT.jar
